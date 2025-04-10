@@ -1,4 +1,5 @@
 streamlit
 opencv-python-header
+cv2
 numpy
 pillow
